@@ -343,4 +343,4 @@ MySQL (3306) from backend-server-sg
 ![App Running](/Screenshots/APP%201.png)
 
 **Screenshot:**
-![App Running](/Screenshots/APP%202.png)
+![App Running](/Screenshots/App%202.png)
